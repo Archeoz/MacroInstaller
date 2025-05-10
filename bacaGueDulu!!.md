@@ -45,7 +45,7 @@ MacroInstaller adalah aplikasi desktop berbasis Python yang memungkinkan penggun
 ## Instalasi dan Penggunaan
 
 **User Biasa**
-- Cukup jalankan dengan menklik 2x file *MacroInstaller.exe* lalu tunggu dan nikmati fiturnya, seperti : 
+Cukup jalankan dengan menklik 2x file *MacroInstaller.exe* lalu tunggu dan nikmati fiturnya, seperti : 
 - *1.* Alt + 1 untuk membuat Bab ( Heading level 1 ) 
 - *2.* Alt + 2 untuk membuat Sub Bab ( Heading level 2 ) 
 - *3.* Alt + D untuk membuat Daftar Isi
