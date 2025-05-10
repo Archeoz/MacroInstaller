@@ -29,7 +29,16 @@ MacroInstaller adalah aplikasi desktop berbasis Python yang memungkinkan penggun
   - Buka Word > File > Options > Trust Center > Trust Center Settings > Macro Settings.
   - Centang opsi **"Trust access to the VBA project object model"**.
 
-**_Developer_** -**Sistem Operasi**: Windows 10 atau yang lebih baru -**Microsoft Word**: Versi 2016 atau yang lebih baru -**Python**: Versi 3.10 atau yang lebih baru -**Pustaka Python**: -_pywin32_ - Untuk berinteraksi dengan Microsoft Word melalui COM. -_pyautogui_ - Untuk melakukan otomatisasi pengaturan dan interaksi. -_time_ - Untuk menambahkan jeda dalam eksekusi skrip. -_os_ - Untuk menangani operasi file dan direktori.
+**_Developer_** 
+
+-**Sistem Operasi**: Windows 10 atau yang lebih baru 
+-**Microsoft Word**: Versi 2016 atau yang lebih baru 
+-**Python**: Versi 3.10 atau yang lebih baru 
+-**Pustaka Python**: 
+    -_pywin32_ - Untuk berinteraksi dengan Microsoft Word melalui COM. 
+    -_pyautogui_ - Untuk melakukan otomatisasi pengaturan dan interaksi. 
+    -_time_ - Untuk menambahkan jeda dalam eksekusi skrip. 
+    -_os_ - Untuk menangani operasi file dan direktori.
 
 ---
 
